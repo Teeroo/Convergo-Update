@@ -1,9 +1,9 @@
 {
- "version": "1.76",
+ "version": "1.77",
  "notes": [
-  "La maintenance déclenchée à distance s'applique à toutes les installations.",
-  "Réglages de mise à jour verrouillés dans la version installée."
+  "Seul le propriétaire du logiciel est administrateur (clé propriétaire dans Paramètres).",
+  "La maintenance déclenchée à distance s'applique à toutes les installations."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.76.exe",
- "setup_sha256": "06451c4aca1173957702bc451c35895fd0e03a2fe595392556db1e9afc7e67ca"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.77.exe",
+ "setup_sha256": "d7c8457708f0df4c6a2a2340d36c2c4aed8c2c9671765a5e2bc87a720d42ffee"
 }
