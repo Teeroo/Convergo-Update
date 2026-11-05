@@ -1,9 +1,9 @@
 {
- "version": "1.78",
+ "version": "1.79",
  "notes": [
-  "Tes filtres et réglages de chaque module sont mémorisés sur ton compte, même après fermeture.",
-  "Seul le propriétaire du logiciel est administrateur."
+  "Chaque alerte ne s'affiche qu'une seule fois, même après un changement de module.",
+  "Nouveau : mode « Ne pas déranger » dans la cloche (1 h, jusqu'à demain, toujours)."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.78.exe",
- "setup_sha256": "df8eb0fdb2f332126dff2c936b22f143b2c1cc90a02be0c41a8aba0ae5331ba2"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.79.exe",
+ "setup_sha256": "eecdf6a0f6a10d8310222281598c23bbf045a79f0354fdaf8e89085ac0fda1bb"
 }
