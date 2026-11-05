@@ -1,9 +1,9 @@
 {
- "version": "1.80",
+ "version": "1.81",
  "notes": [
-  "Accès par clé : chaque utilisateur reçoit une clé personnelle, liée à son ordinateur et valable pour une durée limitée.",
-  "Tes favoris, alertes et réglages sont conservés."
+  "Le propriétaire peut retirer une clé d'accès à distance.",
+  "La clé est vérifiée au moins une fois par semaine (connexion Internet nécessaire)."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.80.exe",
- "setup_sha256": "94db542bce6b2c426267c5fd2c54bf709ba988bc3ca9ff3f0f83484895cb2d27"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.81.exe",
+ "setup_sha256": "1e3d4cb4655b76f03b87bf54c835d59e1850998caa699c10d589bc0e9bdddc09"
 }
