@@ -1,9 +1,9 @@
 {
- "version": "1.79",
+ "version": "1.80",
  "notes": [
-  "Chaque alerte ne s'affiche qu'une seule fois, même après un changement de module.",
-  "Nouveau : mode « Ne pas déranger » dans la cloche (1 h, jusqu'à demain, toujours)."
+  "Accès par clé : chaque utilisateur reçoit une clé personnelle, liée à son ordinateur et valable pour une durée limitée.",
+  "Tes favoris, alertes et réglages sont conservés."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.79.exe",
- "setup_sha256": "eecdf6a0f6a10d8310222281598c23bbf045a79f0354fdaf8e89085ac0fda1bb"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.80.exe",
+ "setup_sha256": "94db542bce6b2c426267c5fd2c54bf709ba988bc3ca9ff3f0f83484895cb2d27"
 }
