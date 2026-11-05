@@ -1,9 +1,9 @@
 {
- "version": "1.75",
+ "version": "1.76",
  "notes": [
-  "Version de test : vérifie que la mise à jour automatique fonctionne.",
-  "Guide : nouvelle étape « Plusieurs fenêtres »."
+  "La maintenance déclenchée à distance s'applique à toutes les installations.",
+  "Réglages de mise à jour verrouillés dans la version installée."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.75.exe",
- "setup_sha256": "0ddc5f091168df5f0d351c17412e0c0cc906f16b9df1bc9e0cd77cbc68e24220"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.76.exe",
+ "setup_sha256": "06451c4aca1173957702bc451c35895fd0e03a2fe595392556db1e9afc7e67ca"
 }
