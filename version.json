@@ -1,1 +1,9 @@
-{"version": "1.74", "notes": []}
+{
+ "version": "1.75",
+ "notes": [
+  "Version de test : vérifie que la mise à jour automatique fonctionne.",
+  "Guide : nouvelle étape « Plusieurs fenêtres »."
+ ],
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.75.exe",
+ "setup_sha256": "0ddc5f091168df5f0d351c17412e0c0cc906f16b9df1bc9e0cd77cbc68e24220"
+}
