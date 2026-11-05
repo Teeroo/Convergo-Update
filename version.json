@@ -1,9 +1,9 @@
 {
- "version": "1.77",
+ "version": "1.78",
  "notes": [
-  "Seul le propriétaire du logiciel est administrateur (clé propriétaire dans Paramètres).",
-  "La maintenance déclenchée à distance s'applique à toutes les installations."
+  "Tes filtres et réglages de chaque module sont mémorisés sur ton compte, même après fermeture.",
+  "Seul le propriétaire du logiciel est administrateur."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.77.exe",
- "setup_sha256": "d7c8457708f0df4c6a2a2340d36c2c4aed8c2c9671765a5e2bc87a720d42ffee"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.78.exe",
+ "setup_sha256": "df8eb0fdb2f332126dff2c936b22f143b2c1cc90a02be0c41a8aba0ae5331ba2"
 }
