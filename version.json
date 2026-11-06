@@ -1,9 +1,9 @@
 {
- "version": "1.82",
+ "version": "1.83",
  "notes": [
-  "Fenêtre sans bordure Windows : barre fine et moderne intégrée à la place de la barre grise système.",
-  "Fenêtre déplaçable en cliquant-glissant la nouvelle barre, double-clic pour agrandir/restaurer."
+  "Corrige le plantage quand on déplace la fenêtre.",
+  "Le bouton agrandir utilise maintenant l'agrandissement natif de Windows."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.82.exe",
- "setup_sha256": "cd70889775ad8626094101f9e4267f4f076f92a343408095bcbeec640ef22b70"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.83.exe",
+ "setup_sha256": "9e06f9e20e494919a01a256f249216ab6c4a64fa3bd8c13b031bf6136114e7b9"
 }
