@@ -1,9 +1,9 @@
 {
- "version": "1.85",
+ "version": "1.86",
  "notes": [
-  "Retour à la fenêtre Windows standard (stable) en attendant la nouvelle barre.",
-  "Journal d'erreurs plus précis."
+  "Nouvelle barre de fenêtre façon TradingView, testée sur une vraie fenêtre Windows.",
+  "Onglets : + pour ouvrir un module, glisse un onglet vers le bas pour l'ouvrir dans sa propre fenêtre."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.85.exe",
- "setup_sha256": "f347aa4604d4b036ed48641d6dc45cba951af0a9133aa720c53001cebebeea1e"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.86.exe",
+ "setup_sha256": "4d076d470be69c358c074a108d4278089af7b55926e09a0a4e6bfdf42b89b616"
 }
