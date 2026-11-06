@@ -1,0 +1,43 @@
+# Publie automatiquement une « Release » GitHub avec l'installeur à chaque nouvelle version (version.json).
+# Lien de téléchargement qui ne change jamais :
+#   https://github.com/Teeroo/TradingForAll-updates/releases/latest/download/TradingForAll-Setup.exe
+name: Publier la release
+
+on:
+  push:
+    branches: [main]
+    paths: ["version.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Créer la release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          VER=$(python3 -c "import json;print(json.load(open('version.json'))['version'])")
+          FILE="TradingForAll-Setup-$VER.exe"
+          test -f "$FILE" || { echo "Installeur $FILE introuvable"; exit 1; }
+          if gh release view "v$VER" >/dev/null 2>&1; then echo "La release v$VER existe déjà"; exit 0; fi
+          mkdir -p out && cp "$FILE" out/TradingForAll-Setup.exe
+          NOTES=$(python3 -c "import json;print('\n'.join('- '+n for n in json.load(open('version.json')).get('notes',[])))")
+          cat > notes.md <<NOTES_EOF
+          ## Installer TradingForAll
+
+          1. Télécharge **TradingForAll-Setup.exe** ci-dessous (dans « Assets »).
+          2. Double-clique dessus et suis l'installation.
+          3. Au premier lancement, envoie le **code de cet ordinateur** affiché à l'écran à la personne qui t'a donné TradingForAll : elle te renverra ta clé d'accès.
+
+          Ensuite, les mises à jour s'installent toutes seules depuis l'application.
+
+          ### Nouveautés de la $VER
+          $NOTES
+          NOTES_EOF
+          sed -i 's/^          //' notes.md
+          gh release create "v$VER" out/TradingForAll-Setup.exe --title "TradingForAll $VER" --notes-file notes.md --latest --target main
