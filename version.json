@@ -1,9 +1,9 @@
 {
- "version": "1.81",
+ "version": "1.82",
  "notes": [
-  "Le propriétaire peut retirer une clé d'accès à distance.",
-  "La clé est vérifiée au moins une fois par semaine (connexion Internet nécessaire)."
+  "Fenêtre sans bordure Windows : barre fine et moderne intégrée à la place de la barre grise système.",
+  "Fenêtre déplaçable en cliquant-glissant la nouvelle barre, double-clic pour agrandir/restaurer."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.81.exe",
- "setup_sha256": "1e3d4cb4655b76f03b87bf54c835d59e1850998caa699c10d589bc0e9bdddc09"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.82.exe",
+ "setup_sha256": "cd70889775ad8626094101f9e4267f4f076f92a343408095bcbeec640ef22b70"
 }
