@@ -1,10 +1,10 @@
 {
- "version": "1.87",
+ "version": "1.88",
  "notes": [
-  "Nouvelle barre de fenêtre façon TradingView, testée sur une vraie fenêtre Windows.",
-  "Onglets : + pour ouvrir un module, glisse un onglet vers le bas pour l'ouvrir dans sa propre fenêtre.",
-  "Supprime le faux bandeau « Redémarrage nécessaire »."
+  "TradingForAll devient Convergo : nouveau nom, nouveau logo, nouvelles couleurs et nouvel écran de démarrage.",
+  "Tes comptes, favoris, alertes et ton historique sont gardés : rien à refaire.",
+  "Corrige un plantage possible au démarrage et clarifie les messages de maintenance."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.87.exe",
- "setup_sha256": "67037e5fd86f31c766f17788981f3c610e3d692902ad6e181c0b191fd223a9f6"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/Convergo-Setup-1.88.exe",
+ "setup_sha256": "d3fb7384c706d49c1578f621ad4febec215462d03836e65c46eac607cf58799c"
 }
