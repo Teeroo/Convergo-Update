@@ -1,9 +1,9 @@
 {
- "version": "1.84",
+ "version": "1.85",
  "notes": [
-  "Corrige le plantage quelques secondes après le démarrage.",
-  "Nouvelle barre de fenêtre moderne intégrée."
+  "Retour à la fenêtre Windows standard (stable) en attendant la nouvelle barre.",
+  "Journal d'erreurs plus précis."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.84.exe",
- "setup_sha256": "7f9a99125f12df3f62edadbe4c9d8b27e5f483b33573ea92f7bf26f248071233"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.85.exe",
+ "setup_sha256": "f347aa4604d4b036ed48641d6dc45cba951af0a9133aa720c53001cebebeea1e"
 }
