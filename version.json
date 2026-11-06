@@ -1,9 +1,10 @@
 {
- "version": "1.86",
+ "version": "1.87",
  "notes": [
   "Nouvelle barre de fenêtre façon TradingView, testée sur une vraie fenêtre Windows.",
-  "Onglets : + pour ouvrir un module, glisse un onglet vers le bas pour l'ouvrir dans sa propre fenêtre."
+  "Onglets : + pour ouvrir un module, glisse un onglet vers le bas pour l'ouvrir dans sa propre fenêtre.",
+  "Supprime le faux bandeau « Redémarrage nécessaire »."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.86.exe",
- "setup_sha256": "4d076d470be69c358c074a108d4278089af7b55926e09a0a4e6bfdf42b89b616"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.87.exe",
+ "setup_sha256": "67037e5fd86f31c766f17788981f3c610e3d692902ad6e181c0b191fd223a9f6"
 }
