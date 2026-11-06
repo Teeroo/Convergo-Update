@@ -1,9 +1,9 @@
 {
- "version": "1.83",
+ "version": "1.84",
  "notes": [
-  "Corrige le plantage quand on déplace la fenêtre.",
-  "Le bouton agrandir utilise maintenant l'agrandissement natif de Windows."
+  "Corrige le plantage quelques secondes après le démarrage.",
+  "Nouvelle barre de fenêtre moderne intégrée."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.83.exe",
- "setup_sha256": "9e06f9e20e494919a01a256f249216ab6c4a64fa3bd8c13b031bf6136114e7b9"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/TradingForAll-Setup-1.84.exe",
+ "setup_sha256": "7f9a99125f12df3f62edadbe4c9d8b27e5f483b33573ea92f7bf26f248071233"
 }
