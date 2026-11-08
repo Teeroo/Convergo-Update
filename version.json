@@ -1,10 +1,10 @@
 {
- "version": "1.89",
+ "version": "1.90",
  "notes": [
-  "Essai gratuit de 14 jours automatique sur chaque ordinateur : plus besoin de clé pour commencer.",
-  "Après l'essai, une clé d'accès permet de continuer (demande-la au propriétaire de Convergo).",
-  "Corrige un plantage possible au démarrage (calcul du biais fondamental)."
+  "Démarrage beaucoup plus rapide : l'écran de chargement passe d'environ 30 secondes à quelques secondes.",
+  "Les pages ne dépassent plus de la fenêtre.",
+  "Page Réglages : corrige une minuterie qui s'accumulait à chaque visite."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/Convergo-Setup-1.89.exe",
- "setup_sha256": "cb12ffe64f29c7ac3fd6f2c7b01597e011ed286f3e3fbb73b6a71925b75fcb40"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/Convergo-Setup-1.90.exe",
+ "setup_sha256": "0ee78262a8eba13894135ac6b50babdf90207ddc95cea5136f5af596241fecca"
 }
