@@ -1,9 +1,9 @@
 {
- "version": "1.91",
+ "version": "1.92",
  "notes": [
-  "Sécurité de la licence renforcée.",
-  "Page de maintenance : nouveau lien « Changer de compte »."
+  "La pastille « Mise à jour disponible » s'affiche de nouveau : les prochaines versions s'installeront en un clic.",
+  "Sécurité de la licence renforcée (depuis la 1.91)."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/Convergo-Setup-1.91.exe",
- "setup_sha256": "765754a3fbc3f41b1287d8e60beb5afc033795083de811fa75941e0ecb9f36c1"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/Convergo-Setup-1.92.exe",
+ "setup_sha256": "5a15035decd8cdd1762687c60ad399271c96fcc576a08058da75448435e4476e"
 }
