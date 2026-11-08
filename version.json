@@ -1,10 +1,9 @@
 {
- "version": "1.90",
+ "version": "1.91",
  "notes": [
-  "Démarrage beaucoup plus rapide : l'écran de chargement passe d'environ 30 secondes à quelques secondes.",
-  "Les pages ne dépassent plus de la fenêtre.",
-  "Page Réglages : corrige une minuterie qui s'accumulait à chaque visite."
+  "Sécurité de la licence renforcée.",
+  "Page de maintenance : nouveau lien « Changer de compte »."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/Convergo-Setup-1.90.exe",
- "setup_sha256": "0ee78262a8eba13894135ac6b50babdf90207ddc95cea5136f5af596241fecca"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/Convergo-Setup-1.91.exe",
+ "setup_sha256": "765754a3fbc3f41b1287d8e60beb5afc033795083de811fa75941e0ecb9f36c1"
 }
