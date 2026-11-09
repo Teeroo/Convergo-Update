@@ -1,9 +1,10 @@
 {
- "version": "1.92",
+ "version": "1.93",
  "notes": [
-  "La pastille « Mise à jour disponible » s'affiche de nouveau : les prochaines versions s'installeront en un clic.",
-  "Sécurité de la licence renforcée (depuis la 1.91)."
+  "Nouvelle apparence sur tous les écrans : couleurs, police et boutons revus.",
+  "Hausses en bleu, baisses en orange ; le rouge ne signale plus que ce qui est critique.",
+  "Logo et icône redessinés."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/TradingForAll-updates/main/Convergo-Setup-1.92.exe",
- "setup_sha256": "5a15035decd8cdd1762687c60ad399271c96fcc576a08058da75448435e4476e"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-1.93.exe",
+ "setup_sha256": "d58860755a5abcead92ea12965b68f1cea2b13b2868552048e89ca668fbc84fc"
 }
