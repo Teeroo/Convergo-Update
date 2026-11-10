@@ -1,10 +1,12 @@
 {
- "version": "1.95",
+ "version": "1.96",
  "notes": [
-  "News Feed : le direct Bloomberg TV à droite du flux, avec son, plein écran et lecteur masquable.",
-  "Central Banks : les dates des prochaines réunions se mettent à jour toutes seules depuis les calendriers officiels.",
-  "Un taux directeur est signalé « à vérifier » dès qu’une réunion a eu lieu après la dernière décision enregistrée."
+  "Calendrier : la semaine affichée suit ton fuseau, plus d’événement manquant le dimanche soir ou le lundi matin.",
+  "Calendrier : la valeur publiée d’une publication passée ne change plus quand la source révise ses chiffres le mois suivant.",
+  "Calendrier : une publication reportée est déplacée (« Horaire modifié »), une publication annulée est marquée « Annulée » ; deux publications du même titre à un jour d’écart restent deux lignes.",
+  "Central Banks : une panne passagère de la source n’efface plus les probabilités affichées.",
+  "Mises à jour et sécurité renforcées, valeurs publiées récupérées plus sobrement au lancement."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-1.95.exe",
- "setup_sha256": "279d0ab91e6eed95ceebc42c0da1a84a76eb40bbd9f5b6ddd563e89642119986"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-1.96.exe",
+ "setup_sha256": "23a369e36430049419ef659e2982eed51dd1867b16268759aa46731013cbb74b"
 }
