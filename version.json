@@ -1,12 +1,12 @@
 {
- "version": "1.96",
+ "version": "1.97",
  "notes": [
-  "Calendrier : la semaine affichée suit ton fuseau, plus d’événement manquant le dimanche soir ou le lundi matin.",
-  "Calendrier : la valeur publiée d’une publication passée ne change plus quand la source révise ses chiffres le mois suivant.",
-  "Calendrier : une publication reportée est déplacée (« Horaire modifié »), une publication annulée est marquée « Annulée » ; deux publications du même titre à un jour d’écart restent deux lignes.",
-  "Central Banks : une panne passagère de la source n’efface plus les probabilités affichées.",
-  "Mises à jour et sécurité renforcées, valeurs publiées récupérées plus sobrement au lancement."
+  "Navigation plus fluide : une page qui charge garde sa place, elle ne se vide plus et ne saute plus quand tu changes un réglage.",
+  "Un choix (Mosaïque, Flux, période…) est marqué dès le clic, et les données déjà connues s’affichent tout de suite.",
+  "Economic Calendar : revenir sur le calendrier ne le recharge plus.",
+  "Survols homogènes sur tous les boutons, liens et cases ; transitions douces à l’ouverture des pages, du menu et des fenêtres.",
+  "Finitions : blocs arrondis partout, onglets d’Economic Data et recherche fondue dans son panneau, champs avec un simple filet jaune au focus."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-1.96.exe",
- "setup_sha256": "23a369e36430049419ef659e2982eed51dd1867b16268759aa46731013cbb74b"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-1.97.exe",
+ "setup_sha256": "cbdd50219ec19d35156402fc84052a5d48f84c7392229a850b4f627c4d9dc4d0"
 }
