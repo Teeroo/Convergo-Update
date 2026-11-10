@@ -1,11 +1,11 @@
 {
- "version": "1.99",
+ "version": "2.00",
  "notes": [
-  "En-tête redessiné : la recherche (Ctrl+K), à gauche, ouvre un module, une devise ou une publication critique des dernières 36 heures.",
-  "Les séances de marché (Sydney, Tokyo, Londres, New York) sont dans l'en-tête ; celles qui sont ouvertes sont marquées d'un point.",
-  "Le menu de ton initiale regroupe le thème, les paramètres, le guide et la déconnexion ; le point d'interrogation explique le module ouvert.",
-  "Le titre de chaque module est dans son onglet : le contenu commence plus haut."
+  "Economic Calendar : les dates, heures et valeurs publiées viennent directement des sources officielles pour USD, GBP, EUR, CAD, CHF et AUD (instituts de statistique et banques centrales).",
+  "Les publications portent les noms habituels des traders (CPI au lieu d'« Inflation », Employment Change, Cash Rate…) ; tes favoris suivent le nouveau nom.",
+  "Discours du directoire de la BCE et décisions des banques centrales à l'heure officielle.",
+  "Une valeur publiée reste celle du jour même, même si l'institut la révise ensuite."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-1.99.exe",
- "setup_sha256": "3b7489ad01e7167f2a7304ec0a2ba2d67a0aed18e5f925be70668093627bd63d"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.00.exe",
+ "setup_sha256": "24a6179d9261799739dd186004c46da14eac57cf2eed7965a452b1091cde851d"
 }
