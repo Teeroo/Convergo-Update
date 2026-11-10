@@ -1,12 +1,10 @@
 {
- "version": "1.97",
+ "version": "1.98",
  "notes": [
-  "Navigation plus fluide : une page qui charge garde sa place, elle ne se vide plus et ne saute plus quand tu changes un réglage.",
-  "Un choix (Mosaïque, Flux, période…) est marqué dès le clic, et les données déjà connues s’affichent tout de suite.",
-  "Economic Calendar : revenir sur le calendrier ne le recharge plus.",
-  "Survols homogènes sur tous les boutons, liens et cases ; transitions douces à l’ouverture des pages, du menu et des fenêtres.",
-  "Finitions : blocs arrondis partout, onglets d’Economic Data et recherche fondue dans son panneau, champs avec un simple filet jaune au focus."
+  "Le logiciel s'appelle désormais Convergo Terminal.",
+  "News Feed : « Réactions en direct » en haut du fil, après une annonce critique ou un mouvement violent du marché (au moins 20 pips en 5 minutes), avec le graphique minute par minute de la paire concernée et un repère 2 minutes avant.",
+  "Le module News Reaction est remplacé par ces réactions en direct : un clic sur une publication du calendrier ouvre sa réaction."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-1.97.exe",
- "setup_sha256": "cbdd50219ec19d35156402fc84052a5d48f84c7392229a850b4f627c4d9dc4d0"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-1.98.exe",
+ "setup_sha256": "426611784640eccfe82584f910bdd58443e4a4139a0e2534ba4c869da425dcee"
 }
