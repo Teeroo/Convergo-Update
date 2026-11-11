@@ -1,12 +1,10 @@
 {
- "version": "2.02",
+ "version": "2.03",
  "notes": [
-  "Economic Calendar entièrement refait : vues Jour, Semaine et Mois, filtres par devise et par impact, « Uniquement à venir », tableau groupé par jour et panneau de l'événement choisi (explication, réaction passée du marché pour les grosses publications, publications à surveiller aujourd'hui).",
-  "Nouvel écran de lancement animé.",
-  "Central Banks : les communications en double ont disparu et les discours des membres des banques centrales sont affichés.",
-  "Actualités récupérées plus vite (toutes les 20 secondes) et réactions en direct plus fiables : les mouvements du rollover de New York sans actualité ne sont plus signalés.",
-  "Overview : force des devises plus lisible avec classement, tableau des banques centrales aligné."
+  "Au lancement, Convergo s'ouvre dans une petite fenêtre noire pendant le chargement, puis s'agrandit tout seul.",
+  "Overview : la dernière réaction du marché passe au-dessus des publications à venir.",
+  "Rappel de la 2.02 : nouvel Economic Calendar (Jour, Semaine, Mois, panneau de l'événement), discours des banques centrales, actualités plus rapides."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.02.exe",
- "setup_sha256": "ae228a1da2b5e385b74af3648e7a8a555aeff75839de0e25cdc725fe0c08af74"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.03.exe",
+ "setup_sha256": "01250a3cbfcb2d8e3ecdf025622dd94360012248ca654e16833a96cad41b1b33"
 }
