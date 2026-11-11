@@ -1,10 +1,10 @@
 {
- "version": "2.06",
+ "version": "2.07",
  "notes": [
-  "Nouvelle Overview sur un seul écran : vue d'ensemble des devises, indicateurs clés, force fondamentale des 8 devises, paires, vue macro de la devise de ton choix, banques centrales, calendrier, News Feed et dernière réaction.",
-  "Macro Scenarios plus tranché, biais en vert et rouge vifs, drapeaux des devises et variation sur 24 h.",
-  "Barre de défilement plus fine et moderne, placée dans la zone du module."
+  "Overview resserrée : News Feed en colonne à gauche, force fondamentale et vue macro plus grandes, tout tient sur l'écran.",
+  "Vue macro : la courbe prend toute la largeur du bloc.",
+  "La dernière réaction du marché s'affiche en petite carte en haut du News Feed, pendant 5 heures après l'annonce."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.06.exe",
- "setup_sha256": "7887df25756b89465aaa6423d63a30fd6634549835f26b86f7f36db60e271ff3"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.07.exe",
+ "setup_sha256": "b1562d8ed417be25f68401ca1e641d478a0f4e07be918d7c5b00cbf354106007"
 }
