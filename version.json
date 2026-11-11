@@ -1,10 +1,10 @@
 {
- "version": "2.07",
+ "version": "2.08",
  "notes": [
-  "Overview resserrée : News Feed en colonne à gauche, force fondamentale et vue macro plus grandes, tout tient sur l'écran.",
-  "Vue macro : la courbe prend toute la largeur du bloc.",
-  "La dernière réaction du marché s'affiche en petite carte en haut du News Feed, pendant 5 heures après l'annonce."
+  "Macro Scenarios en chiffres : carte thermique des 8 devises, tuiles de chiffres clés, barres « Ce qui pèse », scénarios en listes, paires en barres. Les textes complets restent dans « Détails ».",
+  "Surprises colorées selon leur effet réel sur la devise ; votes unanimes et rendements 2 ans proches de zéro bien affichés.",
+  "News Feed : les réactions en direct sont sous Bloomberg TV, en version compacte qui tient dans l'écran."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.07.exe",
- "setup_sha256": "b1562d8ed417be25f68401ca1e641d478a0f4e07be918d7c5b00cbf354106007"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.08.exe",
+ "setup_sha256": "22ebb8a9338a4f98b591b3e94286c597a1e90f142fd09178a1e7b5f42f8feb7c"
 }
