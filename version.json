@@ -1,11 +1,11 @@
 {
- "version": "2.00",
+ "version": "2.01",
  "notes": [
-  "Economic Calendar : les dates, heures et valeurs publiées viennent directement des sources officielles pour USD, GBP, EUR, CAD, CHF et AUD (instituts de statistique et banques centrales).",
-  "Les publications portent les noms habituels des traders (CPI au lieu d'« Inflation », Employment Change, Cash Rate…) ; tes favoris suivent le nouveau nom.",
-  "Discours du directoire de la BCE et décisions des banques centrales à l'heure officielle.",
-  "Une valeur publiée reste celle du jour même, même si l'institut la révise ensuite."
+  "Nouvelle Overview façon terminal : fil en direct, climat de risque avec le VIX sur un an, force des devises en graphique fluide, banques centrales, biais des 28 paires, « Qui est où ? », globe des actualités, publications à venir et dernière réaction du marché.",
+  "Economic Calendar : le yen et le dollar néo-zélandais suivent maintenant les calendriers officiels (e-Stat et Banque du Japon, Stats NZ et RBNZ) ; les publications annoncées à la mauvaise date par l'ancienne source sont corrigées.",
+  "Valeurs japonaises prises aux sources officielles (inflation, chômage, PIB, production, ventes, salaires, prix à la production).",
+  "Si la source américaine du BLS est saturée, les chiffres américains arrivent quand même (copie officielle FRED, et valeur provisoire dans la minute)."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.00.exe",
- "setup_sha256": "24a6179d9261799739dd186004c46da14eac57cf2eed7965a452b1091cde851d"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.01.exe",
+ "setup_sha256": "98054840253a0f61e29b2dde3345d47f24c010f25b111fd3b70b10a23b65a78d"
 }
