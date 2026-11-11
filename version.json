@@ -1,11 +1,12 @@
 {
- "version": "2.01",
+ "version": "2.02",
  "notes": [
-  "Nouvelle Overview façon terminal : fil en direct, climat de risque avec le VIX sur un an, force des devises en graphique fluide, banques centrales, biais des 28 paires, « Qui est où ? », globe des actualités, publications à venir et dernière réaction du marché.",
-  "Economic Calendar : le yen et le dollar néo-zélandais suivent maintenant les calendriers officiels (e-Stat et Banque du Japon, Stats NZ et RBNZ) ; les publications annoncées à la mauvaise date par l'ancienne source sont corrigées.",
-  "Valeurs japonaises prises aux sources officielles (inflation, chômage, PIB, production, ventes, salaires, prix à la production).",
-  "Si la source américaine du BLS est saturée, les chiffres américains arrivent quand même (copie officielle FRED, et valeur provisoire dans la minute)."
+  "Economic Calendar entièrement refait : vues Jour, Semaine et Mois, filtres par devise et par impact, « Uniquement à venir », tableau groupé par jour et panneau de l'événement choisi (explication, réaction passée du marché pour les grosses publications, publications à surveiller aujourd'hui).",
+  "Nouvel écran de lancement animé.",
+  "Central Banks : les communications en double ont disparu et les discours des membres des banques centrales sont affichés.",
+  "Actualités récupérées plus vite (toutes les 20 secondes) et réactions en direct plus fiables : les mouvements du rollover de New York sans actualité ne sont plus signalés.",
+  "Overview : force des devises plus lisible avec classement, tableau des banques centrales aligné."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.01.exe",
- "setup_sha256": "98054840253a0f61e29b2dde3345d47f24c010f25b111fd3b70b10a23b65a78d"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.02.exe",
+ "setup_sha256": "ae228a1da2b5e385b74af3648e7a8a555aeff75839de0e25cdc725fe0c08af74"
 }
