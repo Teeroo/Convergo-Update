@@ -1,10 +1,10 @@
 {
- "version": "2.05",
+ "version": "2.06",
  "notes": [
-  "Macro Scenarios en chiffres : cartes des 8 devises avec score, confiance et barres par catégorie ; la page d'une devise montre ses chiffres clés (taux, anticipations, inflation, chômage, croissance, surprises) et l'évolution de son score.",
-  "Overview : une case Macro Scenarios remplace la force des devises, le climat de risque passe en haut à gauche à côté des indicateurs, le graphique du VIX est retiré.",
-  "Macro Scenarios remonte dans le menu, juste sous Economic Calendar."
+  "Nouvelle Overview sur un seul écran : vue d'ensemble des devises, indicateurs clés, force fondamentale des 8 devises, paires, vue macro de la devise de ton choix, banques centrales, calendrier, News Feed et dernière réaction.",
+  "Macro Scenarios plus tranché, biais en vert et rouge vifs, drapeaux des devises et variation sur 24 h.",
+  "Barre de défilement plus fine et moderne, placée dans la zone du module."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.05.exe",
- "setup_sha256": "8eed70db725472f29fffb6042ac439b252858298123ab913f99945cdd4b66e73"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.06.exe",
+ "setup_sha256": "7887df25756b89465aaa6423d63a30fd6634549835f26b86f7f36db60e271ff3"
 }
