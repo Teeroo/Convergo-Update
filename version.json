@@ -1,10 +1,11 @@
 {
- "version": "2.03",
+ "version": "2.04",
  "notes": [
-  "Au lancement, Convergo s'ouvre dans une petite fenêtre noire pendant le chargement, puis s'agrandit tout seul.",
-  "Overview : la dernière réaction du marché passe au-dessus des publications à venir.",
-  "Rappel de la 2.02 : nouvel Economic Calendar (Jour, Semaine, Mois, panneau de l'événement), discours des banques centrales, actualités plus rapides."
+  "Macro Scenarios entièrement refait : biais des 8 devises face aux autres, avec une explication pour chacune, principales paires, banques centrales, événements à venir et changements récents, dans une page en onglets.",
+  "Le moteur croise maintenant rendements obligataires, crédit, conditions financières, matières premières, régime de marché, ton et votes des banques centrales, et lit chaque surprise selon le contexte.",
+  "Retail Sentiment : positionnement des clients Dukascopy, sans compte à relier.",
+  "L'écran de lancement s'ouvre au milieu de l'écran."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.03.exe",
- "setup_sha256": "01250a3cbfcb2d8e3ecdf025622dd94360012248ca654e16833a96cad41b1b33"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.04.exe",
+ "setup_sha256": "7dceb5123fd70069ab8640086c41be6bcb03677df482068205c928199c725fb0"
 }
