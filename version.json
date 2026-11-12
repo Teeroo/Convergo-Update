@@ -1,10 +1,10 @@
 {
- "version": "2.10",
+ "version": "2.11",
  "notes": [
-  "Modules en chiffres et en couleurs : Central Banks, Policy Comparison, Seasonality (forex, indices, matières premières, crypto, actions), Economic Data, Macro Economics, Market Watch, COT Positioning et Risk Sentiment.",
-  "Overview : le bandeau du sentiment de marché (score, tendance 1 jour / 5 jours / 1 mois) en haut de page.",
-  "Market Watch remonte dans le menu ; Retail Sentiment est retiré."
+  "Impact des actualités mesuré sur les faits : réaction du pétrole, de l'or, des indices, du dollar et du bitcoin, reprise par plusieurs éditeurs. Une news qui fait bouger le marché ne reste plus « faible », et le mouvement s'affiche sur la carte.",
+  "Daily Briefing : un vrai résumé du jour, écrit automatiquement à partir des chiffres (agenda, paires à surveiller, séances, actualités). Ce résumé est aussi en haut de l'Overview.",
+  "Market Watch compte les sujets critiques au lieu des articles ; une même news n'apparaît plus deux fois."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.10.exe",
- "setup_sha256": "db0b44df0c1380db75d372122ad1ecb794d01b91759d5d3c84f3b1063d9edac4"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.11.exe",
+ "setup_sha256": "2a0acc249ec02f09a44ed8b35355be4c334a9fed739070c43d5c4871ff09a25d"
 }
