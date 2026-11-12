@@ -1,10 +1,10 @@
 {
- "version": "2.11",
+ "version": "2.12",
  "notes": [
-  "Impact des actualités mesuré sur les faits : réaction du pétrole, de l'or, des indices, du dollar et du bitcoin, reprise par plusieurs éditeurs. Une news qui fait bouger le marché ne reste plus « faible », et le mouvement s'affiche sur la carte.",
-  "Daily Briefing : un vrai résumé du jour, écrit automatiquement à partir des chiffres (agenda, paires à surveiller, séances, actualités). Ce résumé est aussi en haut de l'Overview.",
-  "Market Watch compte les sujets critiques au lieu des articles ; une même news n'apparaît plus deux fois."
+  "La fenêtre remplit tout l'écran après le lancement, sans trous sur les bords ni dans les angles.",
+  "Charts : 1, 2, 3 ou 4 graphiques en bougies côte à côte (devises, indices, or, pétrole, cryptos, actions), chacun avec son unité de temps. TradingView est retiré.",
+  "Réactions en direct plus lisibles : le gros chiffre, le graphique, puis les autres réactions en lignes fines."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.11.exe",
- "setup_sha256": "2a0acc249ec02f09a44ed8b35355be4c334a9fed739070c43d5c4871ff09a25d"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.12.exe",
+ "setup_sha256": "445054d5872f10c39594e400c1ec500b9f539c80502cf1fb9d6490b3ec9129b5"
 }
