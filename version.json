@@ -1,10 +1,10 @@
 {
- "version": "2.12",
+ "version": "2.13",
  "notes": [
-  "La fenêtre remplit tout l'écran après le lancement, sans trous sur les bords ni dans les angles.",
-  "Charts : 1, 2, 3 ou 4 graphiques en bougies côte à côte (devises, indices, or, pétrole, cryptos, actions), chacun avec son unité de temps. TradingView est retiré.",
-  "Réactions en direct plus lisibles : le gros chiffre, le graphique, puis les autres réactions en lignes fines."
+  "Nouveau thème sombre « Graphite or » : noir profond, icônes dans le menu, titres plus visibles.",
+  "Alertes : choisis les catégories d'actualités (devises, indices, or et pétrole, crypto…), les types de publications (inflation, emploi…) et les réactions en direct du marché.",
+  "Réactions en direct : un mouvement de USD/JPY seul, sans actualité, est signalé comme intervention suspectée sur le yen. Nouveau guide de démarrage."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.12.exe",
- "setup_sha256": "445054d5872f10c39594e400c1ec500b9f539c80502cf1fb9d6490b3ec9129b5"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.13.exe",
+ "setup_sha256": "5155ce14c6a5c20d8a4d1c37216c1b481e90b15939349c3aef9a42563322d1ea"
 }
