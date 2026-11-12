@@ -1,10 +1,8 @@
 {
- "version": "2.13",
+ "version": "2.14",
  "notes": [
-  "Nouveau thème sombre « Graphite or » : noir profond, icônes dans le menu, titres plus visibles.",
-  "Alertes : choisis les catégories d'actualités (devises, indices, or et pétrole, crypto…), les types de publications (inflation, emploi…) et les réactions en direct du marché.",
-  "Réactions en direct : un mouvement de USD/JPY seul, sans actualité, est signalé comme intervention suspectée sur le yen. Nouveau guide de démarrage."
+  "Overview : la force des 8 devises sur un graphique, leur classement et la paire la plus forte, à la place de la vue macro d'une devise."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.13.exe",
- "setup_sha256": "5155ce14c6a5c20d8a4d1c37216c1b481e90b15939349c3aef9a42563322d1ea"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.14.exe",
+ "setup_sha256": "e318c4e920c38bb318a97cc6d20a553efae238f1656b4c3d46185d94ec45c2c4"
 }
