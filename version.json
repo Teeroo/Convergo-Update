@@ -1,10 +1,10 @@
 {
- "version": "2.15",
+ "version": "2.16",
  "notes": [
-  "Overview : bouton « Personnaliser » pour choisir les blocs affichés, leur ordre et leur taille (« Par défaut » remet la disposition d'origine).",
-  "Overview : le graphique « Force des devises » occupe toute sa colonne.",
-  "Charts > Force des devises : les boutons de période ne se chevauchent plus."
+  "Overview : « Customize Layout » refait : petite fenêtre avec les 14 modules, aperçu en direct, glisser-déposer, Save Changes / Cancel et restauration de la disposition d'origine.",
+  "Graphiques : l'échelle des prix ne prend plus la place du graphique (Force des devises de l'Overview).",
+  "Le programme s'appelle maintenant « Convergo Terminal »."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.15.exe",
- "setup_sha256": "0306413989d15b2dab438e93c1bd82aba0f3fb607e64fb3a641a5ac7ed265ff1"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.16.exe",
+ "setup_sha256": "fbec663560c4ae5354f43c3d89e0fc69f331806daf55abc875c4e018beb90289"
 }
