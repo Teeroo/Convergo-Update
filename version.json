@@ -1,10 +1,11 @@
 {
- "version": "2.17",
+ "version": "2.18",
  "notes": [
-  "Nouveau module « Live Squawk » : un fil de brèves financières en direct (banques centrales, statistiques, adjudications, médias financiers gratuits), classées par priorité, avec filtres, pause et historique.",
-  "Réaction du marché en direct : les interventions sur le yen sont mieux reconnues.",
-  "Nouveaux boutons : forme arrondie avec relief, version dorée pour les actions importantes comme « Actualiser »."
+  "Fenêtre : vrai comportement Windows. Glisser en haut de l'écran pour agrandir, vers le bas pour restaurer, ancrage sur les côtés (Win + flèches) et redimensionnement par les bords.",
+  "Menu de gauche rangé en catégories repliables, avec un mode réduit aux icônes (bouton « Réduire » en bas du menu).",
+  "Découverte : parcours de bienvenue, choix « par moi-même » ou « accompagné », conseils courts dans chaque module (réglables dans Paramètres) et aide rapide « ? » en haut à droite.",
+  "Live Squawk : cartes plus lisibles (orange pour HIGH, rouge pour CRITICAL). Écran de chargement centré."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.17.exe",
- "setup_sha256": "41b13834fe864326117093c5a64b10f0706670efbfb1740bd4ac190bd3b4df7f"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.18.exe",
+ "setup_sha256": "9d7d9bc48bf55259fd98d86706807c86364deee9e4eedb4aa421c96e00df5f85"
 }
