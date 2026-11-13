@@ -1,11 +1,10 @@
 {
- "version": "2.19",
+ "version": "2.20",
  "notes": [
-  "Economic Data : chiffres pris aux sources officielles (BLS, BEA, Eurostat, ONS, Statistique Canada, ABS, e-Stat…), le FMI ne sert plus que de secours. PIB trimestriel de retour.",
-  "Economic Data : nouveaux graphiques interactifs (histogrammes mois par mois, valeur au survol, périodes 1A / 3A / 5A / 10A / Max).",
-  "Calendrier : prévisions Convergo (point jaune après la prévision) : Fed de Cleveland et d'Atlanta, Banque d'Angleterre, IPC japonais calculé d'après Tokyo, chiffre définitif repris du chiffre provisoire officiel, ou au moins deux notes de banques d'accord. ShowMyTrades reste en secours.",
-  "Calendrier : le détail d'un événement montre toutes les prévisions relevées et leur source."
+  "Conseils du mode Découverte : une bulle moderne s'affiche à côté de l'élément expliqué, avec un halo qui le met en valeur (Retour / Suivant, flèches du clavier, « Ne plus afficher les conseils » dans le menu ⋯).",
+  "Overview : Live Squawk peut maintenant être ajouté avec « Customize Layout » (7 dernières brèves importantes, un clic ouvre le module).",
+  "Live Squawk : les propos des membres des banques centrales (Fed, BCE, BoE, BoJ…) sont reconnus et classés selon ce qu'ils disent : rouge dès qu'ils parlent d'une hausse ou d'une baisse des taux, orange pour l'inflation, l'emploi ou la croissance, gris pour les autres sujets."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.19.exe",
- "setup_sha256": "8d5cd933021816cff5b25353fd4c14b85d718c74130d84ddce1d348402f13bcd"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.20.exe",
+ "setup_sha256": "069efc94fd552b2a01c3b220de2b937faa84e318a8e7c42a33e0a5d759f5b87f"
 }
