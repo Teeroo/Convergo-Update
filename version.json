@@ -1,11 +1,8 @@
 {
- "version": "2.23",
+ "version": "2.24",
  "notes": [
-  "Paramètres : nouvelle page simple, tout est visible d'un coup (compte, accès, affichage, guide, à propos), avec un sommaire à gauche.",
-  "Le thème et le son des alertes se règlent aussi dans Paramètres.",
-  "News Feed : les « Réactions en direct » ne dépassent plus du cadre.",
-  "Corrections de calcul : lecture du COT, surprises des publications, biais fondamental."
+  "Central Banks : dans le tableau des 8 banques centrales, le pari du marché est maintenant centré et bien lisible (la pastille ne colle plus à son détail)."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.23.exe",
- "setup_sha256": "326c3ca6c6fbd628f30aa5b247285216ef2724ec6ca67909b0500374898814e0"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.24.exe",
+ "setup_sha256": "0e6b6ab06fde07d219eefed4481438840a581a0cc97dcc723d2433056733a335"
 }
