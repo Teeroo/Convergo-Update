@@ -1,9 +1,9 @@
 {
- "version": "2.21",
+ "version": "2.22",
  "notes": [
-  "Alertes : une seule pop-up à la fois. Le nombre d'alertes en attente s'affiche dans une pastille jaune, avec « Suivante » et « Tout fermer ». Une seule notification Windows quand plusieurs alertes arrivent ensemble.",
-  "Economic Data : le drapeau de chaque pays s'affiche dans la liste « Pays suivis »."
+  "Breaking : le bandeau des grosses actualités est maintenant rouge et animé pour attirer l'œil (Overview et News Feed).",
+  "News Feed : les « Réactions en direct » affichent au plus 5 autres réactions, avec moins de texte."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.21.exe",
- "setup_sha256": "0d7f7f2252889e35dcc753599f9d8d56f9a2edacd98a3f1f4ba62c3f38e68d23"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.22.exe",
+ "setup_sha256": "b8f5006401258b1649cbf504a29f995dc7ef606fbaf59898fb33e6ead3387f77"
 }
