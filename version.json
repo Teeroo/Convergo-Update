@@ -1,8 +1,11 @@
 {
- "version": "2.24",
+ "version": "2.25",
  "notes": [
-  "Central Banks : dans le tableau des 8 banques centrales, le pari du marché est maintenant centré et bien lisible (la pastille ne colle plus à son détail)."
+  "Live Squawk : nouvelle présentation en ligne du temps (heure à gauche, niveau bien visible). Un clic sur une brève l'ouvre : résumé de la source, devises, raison de son niveau et lien vers l'article.",
+  "Overview : le bandeau défilant « Actualités » est retiré pour laisser plus de place.",
+  "Economic Calendar : on peut activer une alerte sur un indicateur et choisir combien de temps avant la publication être prévenu.",
+  "Alertes & favoris : page refaite, plus simple. Menu plus aéré et plus lisible en thème clair."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.24.exe",
- "setup_sha256": "0e6b6ab06fde07d219eefed4481438840a581a0cc97dcc723d2433056733a335"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.25.exe",
+ "setup_sha256": "c59b048a936ca8249648641409076a944493efb73ec2574a11958df82465c600"
 }
