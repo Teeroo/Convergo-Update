@@ -1,11 +1,11 @@
 {
- "version": "2.25",
+ "version": "2.26",
  "notes": [
-  "Live Squawk : nouvelle présentation en ligne du temps (heure à gauche, niveau bien visible). Un clic sur une brève l'ouvre : résumé de la source, devises, raison de son niveau et lien vers l'article.",
-  "Overview : le bandeau défilant « Actualités » est retiré pour laisser plus de place.",
-  "Economic Calendar : on peut activer une alerte sur un indicateur et choisir combien de temps avant la publication être prévenu.",
-  "Alertes & favoris : page refaite, plus simple. Menu plus aéré et plus lisible en thème clair."
+  "Economic Data : quand le calendrier l'a enregistré avant la publication, chaque chiffre affiche maintenant le consensus (prévision du marché) et la surprise (chiffre publié − consensus).",
+  "Au survol d'un point du graphique : date de publication, chiffre publié ce jour-là, consensus, surprise et précédent (avec la mention « révisé » s'il a été corrigé). Un repère montre le consensus sur le graphique.",
+  "Nouvelle colonne « Consensus » dans le tableau. Sans prévision enregistrée, « — » s'affiche : aucune valeur n'est inventée.",
+  "Inflation de la zone euro et des pays membres : affichée « CPI » (le détail HICP reste dans l'info-bulle)."
  ],
- "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.25.exe",
- "setup_sha256": "c59b048a936ca8249648641409076a944493efb73ec2574a11958df82465c600"
+ "setup_url": "https://raw.githubusercontent.com/Teeroo/Convergo-Update/main/Convergo-Setup-2.26.exe",
+ "setup_sha256": "d95a34e16ec28e455f546ff3eaf01c4b41209998dd37939781465efb22a4ee7e"
 }
